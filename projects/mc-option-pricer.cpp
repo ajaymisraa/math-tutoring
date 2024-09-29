@@ -1,5 +1,9 @@
 /*
 
+Really just an overview of Assignment #1. Not too much of a coherent solution but here it is. 
+
+Questions can be fwd'd to me by text (on canvas) or by emailing me @ ajaym1@unc.edu
+
 For much of this project, we used: 
 
 https://www.amazon.co.uk/dp/0521721628?ref=cm_sw_r_apin_dp_CVE4EQZDXZZNC7XPADK6
@@ -317,7 +321,7 @@ int main() {
 
     MonteCarloOptionPricer pricer(params, numPaths, numSteps, std::thread::hardware_concurrency());
 
-    // Fetch historical data (replace with actual dates)
+    // Fetch historical data from '22-'23, probably wouldn't work in prod lol.
     if (!pricer.fetchHistoricalData("AAPL", date(2022,1,1), date(2023,1,1))) {
         std::cerr << "Failed to fetch historical data" << std::endl;
         return 1;
