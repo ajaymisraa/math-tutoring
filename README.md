@@ -1,7 +1,6 @@
 # TA Projects
-I volunteer tutor Calc 1-3 &amp; Diff-Eq/Linear at UNC Chapel Hill. I use real-world examples to show students that what they do can be implemented into scenarios they are interest in.
+As a volunteer tutor for Calculus I-III and Differential Equations/Linear Algebra at UNC Chapel Hill, I use real-world examples to demonstrate the practical applications of mathematical concepts to my students.
 
-Much of this code is taken from my "TA Review Sessions" where I sit down in a classroom for 2-3 hours, write a problem on the board, and try to solve the problem with the tutees - first, without code/engineering, then, with an engineered solution and how we can implement it into production. 
+My approach involves conducting "TA Review Sessions," where I present a problem and guide tutees through solving it conceptually before implementing an engineered solution.
 
-I use a lot of different programming languages. I do this so I can learn more of the language myself. Due to the interest in the quantitative finance field, I mainly use cpp/ocaml/rust, but I like to switch it up. 
-
+This method bridges the gap between theoretical understanding and practical implementation. To enhance my own skills and cater to students interested in quantitative finance, I utilize a diverse range of programming languages, primarily C++, OCaml, and Rust, while also exploring others. This multifaceted approach not only aids in students' comprehension but also keeps me at the forefront of various programming paradigms, ensuring that I can provide relevant and industry-aligned guidance. 
