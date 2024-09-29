@@ -1,5 +1,5 @@
 # TA Projects
-As a volunteer tutor for Calculus I-III and Differential Equations/Linear Algebra at UNC Chapel Hill, I use real-world examples to demonstrate the practical applications of mathematical concepts to my students.
+As a volunteer tutor for Calculus I-III at UNC Chapel Hill, I use real-world examples to demonstrate the practical applications of mathematical concepts to my students.
 
 My approach involves conducting "TA Review Sessions," where I present a problem and guide tutees through solving it conceptually before implementing an engineered solution.
 
