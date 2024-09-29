@@ -1,3 +1,19 @@
+/*
+
+For much of this project, we used: 
+
+https://www.amazon.co.uk/dp/0521721628?ref=cm_sw_r_apin_dp_CVE4EQZDXZZNC7XPADK6
+
+and video tutorials like: 
+- https://www.youtube.com/watch?v=5e2yBSefpgo&pp=ygUebW9udGUgY2Fyb2xvIG9wdGlvbiBwcmljZXIgY3Bw
+- https://www.youtube.com/watch?v=I0ogWOuf9Tc&pp=ygUebW9udGUgY2Fyb2xvIG9wdGlvbiBwcmljZXIgY3Bw
+
+for mathematics, we consulted Dr. Cherednik and Dr. Rozansky from UNC Chapel Hill. 
+
+This project was made on Sept 29, 2024. Led by TA Ajay Misra.
+
+*/
+
 #include <iostream>
 #include <cmath>
 #include <random>
