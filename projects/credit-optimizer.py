@@ -15,7 +15,7 @@ to figure out what you don't know!
 
 PROBLEM STATEMENT:
 
-Using historical financial data (HYG, IEF, SPY, VIX), develop a model to predict
+Using historical financial data (HYG, IEF, SPY, VIX)*, develop a model to predict
 credit spreads and create a trading strategy. Apply calculus concepts including:
 
 - Rate of change for daily returns
@@ -24,6 +24,20 @@ credit spreads and create a trading strategy. Apply calculus concepts including:
 - Probabilistic modeling with Hidden Markov Models
 - Gradient descent optimization in XGBoost
 - Integration for cumulative returns
+
+*Other features that would be interesting to add to a confusion matrix:
+
+BDSpread_long (Bond Spread Long-term), BDSpread_short (Bond Spread Short-term), MKM3, 
+SPY_DIFF (S&P 500 Difference), TEDRATE (TED Rate - difference between interest 
+rates on interbank loans and short-term government debt), Y1M6 (Yield difference between 
+1-year and 6-month), Y2Y1 (Yield difference between 2-year and 1-year), leverage, buy bond, 
+TB3MS (3-Month Treasury Bill Secondary Market Rate), USRQE, TERMCBAUTO48NS, PCE (Personal 
+Consumption Expenditures), CPAUCSL (Consumer Price Index for All Urban Consumers), GDP
+(Gross Domestic Product), Notes_Gross_Issues, Notes_Net, Bonds_Gross_Issues, Bonds_Net, 
+10-year issuance, Bill_Net, Monetary policy, Fiscal Policy, National security, Sovereign 
+debt, y_lag1 (Lagged variable of choice), market regime_cs, vix_new1 (Volatility Index)
+
+(for the sake of simplicity, for the problem solution, we only did HYG, SPY, and VIX) 
 
 Compare your model's performance against a linear regression benchmark and evaluate
 the trading strategy against a buy-and-hold approach. Explain the calculus concepts
