@@ -2,6 +2,8 @@
 
 These are projects from my TA reviews. Each file has a rundown of what's going on- detailed with the problem statement and my solution that we developed in class. There is likely more than one solution!! If you have questions, don't hesitate to text or email me. 
 
+For students who are more eager on applications, we have some challenge "beyond calc" problems from Jane Street's challenge repository (https://www.janestreet.com/puzzles/archive/index.html) in the non-calc problems folder. 
+
 Most secondary resources are available on Canvas. 
 
 ## Overview 
